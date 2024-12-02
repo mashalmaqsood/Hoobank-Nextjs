@@ -1,0 +1,80 @@
+{
+  "Home": "casa",
+  "about": "Di",
+  "features": "caratteristiche",
+  "contact": "contatto",
+  "discount": "sconto ",
+  "for": "per ",
+  "oneMonth": " 1 MESE",
+  "account": " account",
+  "the": "La",
+  "next": " Prossima ",
+  "generation": "Generazione",
+  "heroText": "Il nostro team di esperti utilizza una metodologia per identificare le carte di credito che più probabilmente soddisfano le tue esigenze. Esaminiamo tassi percentuali annuali, commissioni annuali",
+  "paymentMethod": "Metodo di pagamento",
+  "benefitsHeading": "Tu fai gli affari, noi gestiremo i soldi.",
+  "benefitsText": "Con la carta di credito giusta, puoi migliorare la tua vita finanziaria costruendo credito, guadagnando premi e risparmiando denaro. Ma con centinaia di carte di credito sul mercato.",
+  "getStarted": "Inizia",
+  "rewards": "Premi",
+  "rewardsText": "Le migliori carte di credito offrono alcune allettanti combinazioni di promozioni e premi",
+  "secured": "Sicuro al 100%.",
+  "securedText": "Adottiamo misure proattive per garantire che le tue informazioni e transazioni siano sicure",
+  "balance": "Trasferimento del saldo",
+  "balanceText": "Una carta di credito per il trasferimento del saldo può farti risparmiare un sacco di soldi in termini di interessi.",
+  "servicesHeading": "Controlla facilmente la fatturazione e la fatturazione.",
+  "servicesText": "Assumi il controllo completo dei tuoi processi di fatturazione e fatturazione con facilità ed efficienza. Semplifica il tuo flusso di lavoro, riduci gli errori e assicurati che tutto rimanga perfettamente organizzato.",
+  "servicesHeading2": "Trova un'offerta di carte migliore in pochi semplici passaggi.",
+  "servicesText2": "Scopri l'offerta di carte perfetta su misura per le tue esigenze in pochi semplici passaggi. Risparmia tempo e scegli la soluzione migliore senza sforzo.",
+  "testimonialHeading": "Cosa dicono di noi ",
+  "testimonialText": "Tutto ciò di cui hai bisogno per accettare pagamenti con carta e far crescere il tuo business ovunque nel pianeta.",
+  "testimonials": [
+    {
+      "text": "Il denaro è solo uno strumento. Ti porterà dove desideri, ma non ti sostituirà come autista.",
+      "userName": "Hermann Jensen",
+      "userDesignation": "Fondatore e leader"
+    },
+    {
+      "text": "Il denaro ti semplifica la vita. Se sei fortunato ad averlo, sei fortunato",
+      "userName": "Steve Marco",
+      "userDesignation": "Fondatore e leader"
+    },
+    {
+      "text": "Di solito sono le persone che lavorano nel mondo degli affari finanziari, della finanza e del commercio internazionale ad essere veramente ricche",
+      "userName": "Ken Gallagher",
+      "userDesignation": "Fondatore e leader"
+    }
+  ],
+  "exploreHeading": "Proviamo subito il nostro servizio!",
+  "exploreText": "Tutto ciò di cui hai bisogno per accettare pagamenti con carta e far crescere il tuo business ovunque nel pianeta.",
+  "footerHeading": "Un nuovo modo per rendere i pagamenti facili, affidabili e sicuri.",
+  "footer": {
+    "Useful Links": "Collegamenti utili",
+    "community": "Comunità",
+    "partner": "Partner",
+    "listItemsOne": {
+      "Partner": "Partner",
+      "Content": "Contenuto",
+      "How it Works": "Come funziona",
+      "Create": "Creare",
+      "Explore": "Esplorare",
+      "Terms & Services": "Termini e servizi",
+      "Help Center": "Centro assistenzar"
+    },
+    "listItemsTwo": {
+      "Help Center" : "Centro assistenza",
+      "Partners": "Partners",
+      "Suggestions": "Suggerimenti",
+      "Blog": "Blog",
+      "Newsletters": "Newsletters"
+    },
+    "listItemsThree": {
+      "Our Partner": "Il nostro partner",
+      "Become a Partner": "Diventa un partner"
+    },
+    "copyRight": "Copyright © 2021 HooBank. Tutti i diritti riservati."
+  },
+  "formTag" : "Benvenuto su Hoobank: creiamo il tuo account",
+  "email" : "E-mail",
+  "password" : "Parola d'ordine",
+  "SignUp" : "Iscrizione"
+}

@@ -1,0 +1,82 @@
+{
+  "Home": "Hogar",
+  "about": "Sobre nosotros",
+  "features": "Características",
+  "contact": "Solución",
+  "discount": "DESCUENTO ",
+  "for": "PARA ",
+  "oneMonth": "1 MES ",
+  "account": "CUENTA",
+  "the": "El",
+  "next": " Próxima ",
+  "generation": "Generación",
+  "heroText": "Nuestro equipo de expertos utiliza una metodología para identificar las tarjetas de crédito que más probablemente se ajusten a sus necesidades. Examinamos tasas porcentuales anuales, tarifas anuales.",
+  "paymentMethod": "Método de pago",
+  "USER ACTIVE": "USUARIO ACTIVO",
+  "TRUSTED BY COMPANY": "CONFIANZA POR LA EMPRESA",
+  "TRANSACTION": "TRANSACCIÓN",
+  "benefitsHeading": "Tú haces el negocio, nosotros nos encargamos del dinero.",
+  "benefitsText": "Con la tarjeta de crédito adecuada, puede mejorar su vida financiera generando crédito, obteniendo recompensas y ahorrando dinero. Pero con cientos de tarjetas de crédito en el mercado.",
+  "getStarted": "Empezar",
+  "rewards": "Recompensas",
+  "rewardsText": "Las mejores tarjetas de crédito ofrecen algunas combinaciones tentadoras de promociones y premios.",
+  "secured": "100% seguro",
+  "securedText": "Tomamos medidas proactivas para asegurarnos de que su información y sus transacciones estén seguras.",
+  "balance": "Transferencia de saldo",
+  "balanceText": "Una tarjeta de crédito con transferencia de saldo puede ahorrarle mucho dinero en intereses.",
+  "servicesHeading": "Controle fácilmente su facturación y facturación.",
+  "servicesText": "Tome el control total de sus procesos de facturación con facilidad y eficiencia. Simplifique su flujo de trabajo, reduzca los errores y asegúrese de que todo permanezca perfectamente organizado.",
+  "servicesHeading2": "Encuentre una mejor oferta de tarjeta en unos sencillos pasos.",
+  "servicesText2": "Descubra la oferta de tarjeta perfecta adaptada a sus necesidades en tan solo unos sencillos pasos. Ahorre tiempo y elija la que mejor se adapte a sus necesidades sin esfuerzo.",
+  "testimonialHeading": "Lo que la gente dice sobre nosotros",
+  "testimonialText": "Todo lo que necesitas para aceptar pagos con tarjeta y hacer crecer tu negocio en cualquier parte del planeta.",
+  "testimonials": [
+    {
+      "text": "El dinero es sólo una herramienta. Te llevará a donde desees, pero no te sustituirá como conductor.",
+      "userName": "Herman Jensen",
+      "userDesignation": "Fundadora y Líder"
+    },
+    {
+      "text": "El dinero te hace la vida más fácil. Si tienes suerte de tenerlo, tienes suerte.",
+      "userName": "Steve Mark",
+      "userDesignation": "Fundador y Líder"
+    },
+    {
+      "text": "Generalmente son las personas en los negocios monetarios, las finanzas y el comercio internacional las que son realmente ricas.",
+      "userName": "Kenn Gallagher",
+      "userDesignation": "Fundador y Líderr"
+    }
+  ],
+  "exploreHeading": "Probemos nuestro servicio ahora!",
+  "exploreText": "Todo lo que necesitas para aceptar pagos con tarjeta y hacer crecer tu negocio en cualquier parte del planeta.",
+  "footerHeading": "Una nueva forma de hacer los pagos fáciles, confiables y seguros.",
+  "footer": {
+    "Useful Links": "Enlaces útiles",
+    "community": "Comunidad",
+    "partner": "Pareja",
+    "listItemsOne": {
+      "Partner": "Pareja",
+      "Content": "Contenido",
+      "How it Works": "Cómo funciona",
+      "Create": "Crear",
+      "Explore": "Explorar",
+      "Terms & Services": "Términos y servicios"
+    },
+    "listItemsTwo": {
+      "Help Center": "Centro de ayuda",
+      "Partners": "Fogonadura",
+      "Suggestions": "Sugerencias",
+      "Blog": "Blog",
+      "Newsletters": "Boletines"
+    },
+    "listItemsThree": {
+      "Our Partner": "Nuestro compañero",
+      "Become a Partner": "Conviértete en socio"
+    },
+    "copyRight": "Copyright © 2021 HooBank. Reservados todos los derechos."
+  },
+  "formTag" : "Bienvenido a Hoobank: creemos su cuenta",
+  "email" : "Correo electrónico",
+  "password" : "Contraseña",
+  "SignUp" : "Inscribirse"
+}

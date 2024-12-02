@@ -1,0 +1,82 @@
+{
+  "Home": "Home",
+  "about": "About us",
+  "features": "Features",
+  "contact": "Solution",
+  "discount": "DISCOUNT ",
+  "for": "FOR ",
+  "oneMonth": "1 MONTH ",
+  "account": "ACCOUNT",
+  "the": "The",
+  "next": " Next ",
+  "generation": "Generation",
+  "heroText": "Our team of experts uses a methodology to identify the credit cards most likely to fit your needs. We examine annual percentage rates, annual fees.",
+  "USER ACTIVE": "USER ACTIVE",
+  "TRUSTED BY COMPANY": "TRUSTED BY COMPANY",
+  "TRANSACTION": "TRANSACTION",
+  "paymentMethod": "Payment Method",
+  "benefitsHeading": "You do the business, we’ll handle the money. ",
+  "benefitsText": "With the right credit card, you can improve your financial life by building credit, earning rewards and saving money. But with hundreds of credit cards on the market.",
+  "getStarted" : "Get Started",
+  "rewards": "Rewards",
+  "rewardsText": "The best credit cards offer some tantalizing combinations of promotions and prizes",
+  "secured": "100% Secured",
+  "securedText": "We take proactive steps make sure your information and transactions are secure.",
+  "balance": "Balance Transfer",
+  "balanceText": "A balance transfer credit card can save you a lot of money in interest charges.",
+  "servicesHeading": "Easily control your billing & invoicing.",
+  "servicesText": "Take complete control of your billing and invoicing processes with ease and efficiency.Simplify your workflow, reduce errors, and ensure everything stays perfectly organized.",
+  "servicesHeading2": "Find a better card deal in few easy steps.",
+  "servicesText2": "Discover the perfect card deal tailored to your needs in just a few simple steps.Save time and choose the best fit effortlessly.",
+  "testimonialHeading": "What people are saying about us ",
+  "testimonialText": "Everything you need to accept card payments and grow your business anywhere on the planet.",
+  "testimonials": [
+    {
+      "text": "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+      "userName": "Herman Jensen",
+      "userDesignation": "Founder & Leader"
+    },
+    {
+      "text": "Money makes your life easier. If you're lucky to have it, you're lucky",
+      "userName": "Steve Mark",
+      "userDesignation": "Founder & Leader"
+    },
+    {
+      "text": "It is usually people in the money business, finance, and international trade that are really rich.",
+      "userName": "Kenn Gallagher",
+      "userDesignation": "Founder & Leader"
+    }
+  ],
+  "exploreHeading": "Let’s try our service now!",
+  "exploreText": "Everything you need to accept card payments and grow your business anywhere on the planet.",
+  "footerHeading": "A new way to make the payments easy, reliable and secure.",
+  "footer": {
+    "Useful Links": "Useful Links",
+    "community": "Community",
+    "partner" : "Partner",
+    "listItemsOne": {
+      "Partner": "Partner",
+      "Content": "Content",
+      "How it Works": "How it Works",
+      "Create": "Create",
+      "Explore": "Explore",
+      "Terms & Services": "Terms & Services"
+    },
+    "listItemsTwo": {
+      "Help Center" : "Help Center",
+      "Partners": "Partners",
+      "Suggestions": "Suggestions",
+      "Blog": "Blog",
+      "Newsletters": "Newsletters"
+    },
+    "listItemsThree": {
+      "Our Partner": "Our Partner",
+      "Become a Partner": "Become a Partner"
+    },
+    "copyRight" : "Copyright © 2021 HooBank. All Rights Reserved."
+  },
+  "formTag" : "Welcome to Hoobank - Let's create your account",
+  "email" : "Email",
+  "password" : "Password",
+  "SignUp" : "Sign up"
+}

@@ -1,0 +1,82 @@
+{
+  "Home": "Heim",
+  "about": "Über uns",
+  "features": "Merkmale",
+  "contact": "Lösung",
+  "discount": "RABATT ",
+  "for": "FÜR ",
+  "oneMonth": "1 MONAT ",
+  "account": "KONTO",
+  "the": "Der",
+  "next": " Nächste ",
+  "generation": "Generation",
+  "heroText": "Unser Expertenteam verwendet eine Methodik, um die Kreditkarten zu identifizieren, die Ihren Anforderungen am ehesten entsprechen. Wir prüfen effektive Jahreszinsen, Jahresgebühren.",
+  "USER ACTIVE": "BENUTZER AKTIV",
+  "TRUSTED BY COMPANY": "DAS UNTERNEHMEN VERTRAUEN",
+  "TRANSACTION": "TRANSAKTION",
+  "paymentMethod": "Zahlungsmethode",
+  "benefitsHeading": "Sie machen das Geschäft, wir kümmern uns um das Geld. ",
+  "benefitsText": "Mit der richtigen Kreditkarte können Sie Ihr finanzielles Leben verbessern, indem Sie Kredite aufbauen, Prämien verdienen und Geld sparen. Aber mit Hunderten von Kreditkarten auf dem Markt.",
+  "getStarted": "Legen Sie los",
+  "rewards": "Belohnungen",
+  "rewardsText": "Die besten Kreditkarten bieten einige verlockende Kombinationen aus Werbeaktionen und Preisen",
+  "secured": "100 % sicher",
+  "securedText": "Wir ergreifen proaktive Maßnahmen, um sicherzustellen, dass Ihre Informationen und Transaktionen sicher sind.",
+  "balance": "Saldoübertragung",
+  "balanceText": "Mit einer Guthabentransfer-Kreditkarte können Sie viel Geld an Zinskosten sparen.",
+  "servicesHeading": "Steuern Sie ganz einfach Ihre Abrechnung und Rechnungsstellung.",
+  "servicesText": "Übernehmen Sie mit Leichtigkeit und Effizienz die vollständige Kontrolle über Ihre Abrechnungs- und Fakturierungsprozesse. Vereinfachen Sie Ihren Arbeitsablauf, reduzieren Sie Fehler und stellen Sie sicher, dass alles perfekt organisiert bleibt.",
+  "servicesHeading2": "Finden Sie in wenigen einfachen Schritten ein besseres Kartenangebot.",
+  "servicesText2": "Entdecken Sie in nur wenigen einfachen Schritten das perfekte Kartenangebot, das auf Ihre Bedürfnisse zugeschnitten ist. Sparen Sie Zeit und wählen Sie mühelos die beste Lösung.",
+  "testimonialHeading": "Was die Leute über uns sagen ",
+  "testimonialText": "Alles, was Sie brauchen, um Kartenzahlungen zu akzeptieren und Ihr Geschäft überall auf der Welt auszubauen.",
+  "testimonials": [
+    {
+      "text": "Geld ist nur ein Werkzeug. Es bringt Sie dorthin, wohin Sie wollen, ersetzt Sie jedoch nicht als Fahrer.",
+      "userName": "Herman Jensen",
+      "userDesignation": "Gründer und Leiter"
+    },
+    {
+      "text": "Geld macht Ihr Leben einfacher. Wenn Sie das Glück haben, es zu haben, haben Sie Glück",
+      "userName": "Steve Mark",
+      "userDesignation": "Gründer und Leiter"
+    },
+    {
+      "text": "Normalerweise sind es die Leute, die im Geldgeschäft, im Finanzwesen und im internationalen Handel tätig sind und wirklich reich sind.",
+      "userName": "Kenn Gallagher",
+      "userDesignation": "Gründer und Leiter"
+    }
+  ],
+  "exploreHeading": "Probieren Sie jetzt unseren Service aus!",
+  "exploreText": "Alles, was Sie brauchen, um Kartenzahlungen zu akzeptieren und Ihr Geschäft überall auf der Welt auszubauen.",
+  "footerHeading": "Eine neue Möglichkeit, Zahlungen einfach, zuverlässig und sicher zu gestalten.",
+  "footer": {
+    "Useful Links": "Nützliche Links",
+    "community": "Gemeinschaft",
+    "partner": "Partner",
+    "listItemsOne": {
+      "Partner": "Partner",
+      "Content": "Inhalt",
+      "How it Works": "Wie es funktioniert",
+      "Create": "Erstellen",
+      "Explore": "Erkunden",
+      "Terms & Services": "Allgemeine Geschäftsbedingungen und Dienste"
+    },
+    "listItemsTwo": {
+      "Help Center": "Hilfecenter",
+      "Partners": "Partners",
+      "Suggestions": "Vorschläge",
+      "Blog": "Blog",
+      "Newsletters": "Newsletters"
+    },
+    "listItemsThree": {
+      "Our Partner": "Unser Partner",
+      "Become a Partner": "Werden Sie Partner"
+    },
+    "copyRight": "Copyright © 2021 HooBank. All Rights Reserved."
+  },
+  "formTag" : "Willkommen bei Hoobank – Lassen Sie uns Ihr Konto erstellen",
+  "email" : "E-Mail",
+  "password" : "Passwort",
+  "SignUp" : "Melden Sie sich an"
+}
