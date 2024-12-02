@@ -1,0 +1,82 @@
+{
+  "Home": "Ev",
+  "about": "Hakkımızda",
+  "features": "Özellikler",
+  "contact": "Çözüm",
+  "discount": "İNDİRİM ",
+  "for": "İÇİN ",
+  "oneMonth": "1 AY",
+  "account": "HESAP",
+  "the": "The",
+  "next": " Sonraki ",
+  "generation": "Nesil ",
+  "heroText": "Uzmanlardan oluşan ekibimiz, ihtiyaçlarınıza en uygun kredi kartlarını belirlemek için bir metodoloji kullanır. Yıllık yüzde oranlarını, yıllık ücretleri inceliyoruz.",
+  "USER ACTIVE": "KULLANICI AKTİF",
+  "TRUSTED BY COMPANY": "ŞİRKET TARAFINDAN GÜVENİLİR",
+  "TRANSACTION": "İŞLEM",
+  "paymentMethod": "Ödeme yöntemi",
+  "benefitsHeading": "Siz işi yapın, biz parayı halledelim. ",
+  "benefitsText": "Doğru kredi kartıyla kredi oluşturarak, ödüller kazanarak ve paradan tasarruf ederek finansal yaşamınızı iyileştirebilirsiniz. Ama piyasada yüzlerce kredi kartı var.",
+  "getStarted": "Başlayın",
+  "rewards": "Ödüller",
+  "rewardsText": "En iyi kredi kartları cazip promosyon ve ödül kombinasyonları sunar",
+  "secured": "%100 Güvenli",
+  "securedText": "Bilgilerinizin ve işlemlerinizin güvende olduğundan emin olmak için proaktif adımlar atıyoruz.",
+  "balance": "Bakiye Transferi",
+  "balanceText": "Bakiye transferi kredi kartı, faiz masraflarından büyük miktarda tasarruf etmenizi sağlayabilir.",
+  "servicesHeading": "Faturalandırmanızı ve faturalandırmanızı kolayca kontrol edin.",
+  "servicesText": "Kolaylık ve verimlilikle faturalandırma ve faturalandırma süreçlerinizin tam kontrolünü elinize alın.İş akışınızı basitleştirin, hataları azaltın ve her şeyin mükemmel şekilde organize olmasını sağlayın.",
+  "servicesHeading2": "Birkaç kolay adımda daha iyi bir kart fırsatı bulun.",
+  "servicesText2": "Sadece birkaç basit adımda ihtiyaçlarınıza göre tasarlanmış mükemmel kart fırsatını keşfedin. Zamandan tasarruf edin ve en uygun olanı zahmetsizce seçin.",
+  "testimonialHeading": "İnsanlar hakkımızda neler söylüyor",
+  "testimonialText": "Kart ödemelerini kabul etmek ve gezegenin herhangi bir yerinde işinizi büyütmek için ihtiyacınız olan her şey.",
+  "testimonials": [
+    {
+      "text": "Para yalnızca bir araçtır. Seni istediğin yere götürecek ama sürücünün yerini almayacak.",
+      "userName": "Herman Jensen",
+      "userDesignation": "Kurucu ve Lider"
+    },
+    {
+      "text": "Para hayatınızı kolaylaştırır. Eğer ona sahip olduğun için şanslıysan, şanslısın",
+      "userName": "Steve Mark",
+      "userDesignation": "Kurucu ve Lider"
+    },
+    {
+      "text": "Gerçekten zengin olanlar genellikle para işinde, finansta ve uluslararası ticarette çalışan insanlardır.",
+      "userName": "Kenn Gallagher",
+      "userDesignation": "Kurucu ve Lider"
+    }
+  ],
+  "exploreHeading": "Şimdi hizmetimizi deneyelim!",
+  "exploreText": "Kart ödemelerini kabul etmek ve gezegenin herhangi bir yerinde işinizi büyütmek için ihtiyacınız olan her şey.",
+  "footerHeading": "Ödemeleri kolay, güvenilir ve emniyetli hale getirmenin yeni bir yolu.",
+  "footer": {
+    "Useful Links": "Faydalı Bağlantılar",
+    "community": "Toplum",
+    "partner": "Ortak",
+    "listItemsOne": {
+      "Partner": "Partner",
+      "Content": "İçerik",
+      "How it Works": "Nasıl Çalışır?",
+      "Create": "Yaratmak",
+      "Explore": "Keşfetmek",
+      "Terms & Services": "Şartlar ve Hizmetler"
+    },
+    "listItemsTwo": {
+      "Help Center": "Yardım Merkezi",
+      "Partners": "Ortaklar",
+      "Suggestions": "Öneriler",
+      "Blog": "Blog",
+      "Newsletters": "Bültenler"
+    },
+    "listItemsThree": {
+      "Our Partner": "Ortağımız",
+      "Become a Partner": "Ortak Olun"
+    },
+    "copyRight": "Telif hakkı © 2021 HooBank. Her hakkı saklıdır."
+  },
+  "formTag" : "Hoobank'a hoş geldiniz - Hesabınızı oluşturalım",
+  "email" : "E-posta",
+  "password" : "Şifre",
+  "SignUp" : "Üye olmak"
+}
